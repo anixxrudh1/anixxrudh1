@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirudh Singh Panwar</h1>
-<h3 align="center">Aspiring web developer from BHARAT(INDIA)</h3>
+<h3 align="center">Aspiring web developer from INDIA</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952bf7lyrc2ym04apjfcd0a3bhum4h9bfjnwpx627pa&ep=v1_gifs_search&rid=200w.gif&ct=g"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anixxrudh1&label=Profile%20views&color=0e75b6&style=flat" alt="anixxrudh1" /> </p>
