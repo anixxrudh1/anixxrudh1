@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **anirudhpanwar0001@gmail.com**
 
-- 📄 Know about my experiences [https://youtube.com/@anixxrudh?si=ZIU2iU5grr1qAoEv](https://youtube.com/@anixxrudh?si=ZIU2iU5grr1qAoEv)
-
 - ⚡ Fun fact **Sometimes Funny**
 
 <h3 align="left">Connect with me:</h3>
