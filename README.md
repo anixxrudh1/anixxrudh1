@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anirudh90433278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirudh90433278" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/anirudh-singh-panwar-10655928b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anirudh-singh-panwar-10655928b" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/anirudhsinghhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anirudh-singh-panwar-10655928b" height="30" width="40" /></a>
 <a href="https://instagram.com/anixxrudh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anixxrudh_" height="30" width="40" /></a>
 
 </p>
